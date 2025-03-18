@@ -1,0 +1,37 @@
+Cuan Swan's timetable:
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+|         | Day 1                                   | Day 2                                     | Day 3                                         | Day 4                                        |
++=========+=========================================+===========================================+===============================================+==============================================+
+| Week 1  | HTML Module 1 Lesson 1 ->               | HTML Module 2 Lesson Quiz ->              | HTML Module 3 Lesson Quiz ->                  | HTML Module 4 Lesson Activity ->             |
+|         | HTML Module 2 Lesson 6                  | HTML Module 3 Lesson 6                    | HTML Module 4 Lesson Quiz                     | HTML Module 5 Lesson Activity                |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 2  | HTML Module 6 Lesson 1 ->               | HTML Module Challenges Lesson 2 ->        | HTML Module Challenges Lesson 4 ->            | HTML Module Challenges Lesson 6 ->           |
+|         | HTML Module Challenges Lesson 1         | HTML Module Challenges Lesson 3           | HTML Module Challenges Lesson 5               | HTML Module Challenges Lesson 7              |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 3  | HTML Module Challenges Lesson 8 ->      | HTML Module Challenges Lesson 10 ->       | HTML Module Challenges Lesson 12 ->           | CSS Module 1 Lesson 1 ->                     |
+|         | HTML Module Challenges Lesson 9         | HTML Module Challenges Lesson 11          | HTML Module Challenges Lesson 13              | CSS Module 3 Lesson 3                        |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 4  | CSS Module 3 Lesson 4 ->                | TailwindCSS Module 1 Lesson 1 ->          | TailwindCSS Module 3 Lesson Practical 3.2 ->  | JS Module 2 Lesson 3 ->                      |
+|         | CSS Module 5 Lesson Quiz                | TailwindCSS Module 3 Lesson Practical 3.1 | JS Module 2 Lesson 2                          | JS Module 2 Lesson Practical 2.2             |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 5  | JS Module 2 Lesson Practical 2.3 ->     | JS Module 3 Lesson Practical 3.1 ->       | JS Module 5 Lesson 1 ->                       | JS Module 7 Lesson 1 ->                      |
+|         | JS Module 3 Lesson Quiz                 | JS Module 4 Lesson Practical 4.2          | JS Module 6 Lesson Practical 6.1              | JS Module 8 Lesson 2                         |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 6  | JS Module 8 Lesson 3 ->                 | JS Module 9 Lesson Quiz ->                | React Module 2 Lesson 2 ->                    | React Module 3 Lesson 3 ->                   |
+|         | JS Module 9 Lesson 6                    | React Module 2 Lesson 1                   | React Module 3 Lesson Practical 3.2           | React Module 4 Lesson Practical 4.2          |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 7  | React Module 4 Lesson 3 ->              | React Module 5 Lesson 4 ->                | React Module 6 Lesson Practical 6.3 ->        | React Module 6 Lesson Quiz ->                |
+|         | React Module 5 Lesson Practical 5.3     | React Module 6 Lesson 3                   | React Module 6 Lesson Practical 6.7           | React Module 7 Lesson Practical 7.5          |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 8  | React Module 8 Lesson 1 ->              | React Module 9 Lesson 2 ->                | CommandLine Module 1 Lesson Quiz ->           | Python Module 1 Lesson 2 ->                  |
+|         | React Module 9 Lesson Practical 9.1     | CommandLine Module 1 Lesson 4             | Python Module 1 Lesson 1                      | Python Module 4 Lesson Practical 4.1         |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 9  | Python Module 4 Lesson Quiz ->          | Python Module 7 Lesson 2 ->               | Python Module 9 Lesson 1 ->                   | Python Module 10 Lesson Practical 10.2 ->    |
+|         | Python Module 7 Lesson 1                | Python Module 8 Lesson Quiz               | Python Module 10 Lesson Practical 10.1        | PHP Module 2 Lesson Practical 2.1            |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 10 | PHP Module 3 Lesson 1 ->                | PHP Module 5 Lesson Practical 5.1 ->      | PHP Module 8 Lesson 1 ->                      | PHP Module 10 Lesson 1 ->                    |
+|         | PHP Module 5 Lesson Quiz                | PHP Module 7 Lesson Practical 7.1         | PHP Module 9 Lesson Practical 9.1             | PHP Module 11 Lesson Quiz                    |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
+| Week 11 | PHP Module 11 Lesson Practical 11.1 ->  | PHP Module 12 Lesson Practical 12.3 ->    | SQL Essentials Module 4 Lesson 1 ->           | SQL Essentials Module 7 Lesson 1 ->          |
+|         | PHP Module 12 Lesson Practical 12.2     | SQL Essentials Module 3 Lesson Quiz       | SQL Essentials Module 6 Lesson Practical 6.1  | SQL Essentials Module 9 Lesson Practical 9.1 |
++---------+-----------------------------------------+-------------------------------------------+-----------------------------------------------+----------------------------------------------+
