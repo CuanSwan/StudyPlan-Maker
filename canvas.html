@@ -31,10 +31,15 @@
                 const y = e.clientY - canvas.getBoundingClientRect().top
                 
                 const d = (x-ax)*(by-ay) - (y-ay)*(bx-ax)
-                const f = (x-bx)*(cy-by) - (y-cy)*(cx-bx)
+                const f = (x-bx)*(cy-by) - (y-by)*(cx-bx)
                 const g = (x-cx)*(ay-cy) - (y-ay)*(ax-cx)
+                console.log("d:"+d)
+                console.log("f:"+f)
+                console.log("g:"+g)
                 if (d>0 && f>0 && g>0){
                     console.log("inside")
+                }else{
+                    console.log("OUTSIDE")
                 }
             })
             
